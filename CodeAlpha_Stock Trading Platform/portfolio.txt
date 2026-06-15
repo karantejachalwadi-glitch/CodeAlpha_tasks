@@ -1,0 +1,4 @@
+username:Guest
+balance:735369.6
+HOLDINGS
+MSFT,3,34876.80
